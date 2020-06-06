@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": "3o6V6vh1d",
+      "title": "doraemon",
+      "description": ""
+    }
+  ],
+  "users": [],
+  "transactions": [
+    {
+      "id": "1",
+      "userId": "1",
+      "bookId": "1"
+    }
+  ]
+}
